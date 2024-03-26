@@ -83,3 +83,91 @@ D:\practikod\ToDoList\Server\TodoApi\obj\Debug\net7.0\refint\TodoApi.dll
 D:\practikod\ToDoList\Server\TodoApi\obj\Debug\net7.0\TodoApi.pdb
 D:\practikod\ToDoList\Server\TodoApi\obj\Debug\net7.0\TodoApi.genruntimeconfig.cache
 D:\practikod\ToDoList\Server\TodoApi\obj\Debug\net7.0\ref\TodoApi.dll
+D:\practikod\ToDoList\Server\ToDoApi\obj\Debug\net7.0\TodoApi.sourcelink.json
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\appsettings.Development.json
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\appsettings.json
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\package-lock.json
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\TodoApi.exe
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\TodoApi.deps.json
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\TodoApi.runtimeconfig.json
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\TodoApi.dll
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\TodoApi.pdb
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\Humanizer.dll
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\MySqlConnector.dll
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\The user\Desktop\Server\toDoApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\TodoApi.csproj.AssemblyReference.cache
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\TodoApi.AssemblyInfoInputs.cache
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\TodoApi.AssemblyInfo.cs
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\TodoApi.csproj.CoreCompileInputs.cache
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoApi.props
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\scopedcss\bundle\TodoApi.styles.css
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\TodoApi.csproj.CopyComplete
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\TodoApi.dll
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\refint\TodoApi.dll
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\TodoApi.pdb
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\TodoApi.genruntimeconfig.cache
+D:\The user\Desktop\Server\toDoApi\obj\Debug\net7.0\ref\TodoApi.dll
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\appsettings.Development.json
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\appsettings.json
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\package-lock.json
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\TodoApi.exe
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\TodoApi.deps.json
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\TodoApi.runtimeconfig.json
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\TodoApi.dll
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\TodoApi.pdb
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\Humanizer.dll
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\MySqlConnector.dll
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\practikod\ToDoList\code\Server\ToDoApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\TodoApi.csproj.AssemblyReference.cache
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\TodoApi.AssemblyInfoInputs.cache
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\TodoApi.AssemblyInfo.cs
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\TodoApi.csproj.CoreCompileInputs.cache
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\TodoApi.sourcelink.json
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoApi.props
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\scopedcss\bundle\TodoApi.styles.css
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\TodoApi.csproj.CopyComplete
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\TodoApi.dll
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\refint\TodoApi.dll
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\TodoApi.pdb
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\TodoApi.genruntimeconfig.cache
+D:\practikod\ToDoList\code\Server\ToDoApi\obj\Debug\net7.0\ref\TodoApi.dll
